@@ -11,7 +11,7 @@ Basit bir sayı tahmin oyunu. Oyuncu 0-100 arasında rastgele üretilen sayıyı
 
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/[kullanıcı-adınız]/learn-rust.git
+git clone https://github.com/SoyluEren2004/guessing_game.git
 
 # Proje dizinine gidin
 cd learn-rust/guessing_game
